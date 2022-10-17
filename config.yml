@@ -1,4 +1,24 @@
 baseURL: 'http://example.org/'
 languageCode: 'en-us'
-title: 'My New Hugo Site'
+title: 'Blog de Miguel'
 theme: "PaperMod"
+params:
+  title: Sitio de miguel
+  description: "Example site description"
+  keywords: [Blog, Portfolio, PaperMod]
+  author: Miguel
+
+  homeInfoParams:
+    Title: "Hola chicos \U0001F44B"
+    Content: Bienvenidos sean a mi blog
+
+socialIcons:
+  - name: github
+    url: "https://github.com/"
+
+menu:
+  main:
+    - identifier: archives
+      name: Archives
+      url: "archives/"
+      weight: 10
