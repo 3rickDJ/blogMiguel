@@ -1,7 +1,9 @@
-baseURL: 'http://example.org/'
+baseURL: 'https://3rickdj.github.io/blogMiguel/'
 languageCode: 'en-us'
 title: 'Blog de Miguel'
 theme: "PaperMod"
+canonifyURLs: true
+relativeURLs: true
 params:
   title: Sitio de miguel
   description: "Example site description"
