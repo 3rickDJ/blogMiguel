@@ -1,9 +1,9 @@
 ---
-title: "MiPrimerPost"
+title: "Cambios desde GitHub"
 date: 2022-10-17T13:47:58-05:00
 ---
 
-### OOHAIHFAAWUII
+### GitHub Pages
 
 # titulo en md
 
